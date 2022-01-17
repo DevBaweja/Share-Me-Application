@@ -1,0 +1,49 @@
+# Features
+Share Me is photosharing app
+Login and Register featuring google sign in
+Feed of Post
+Post can be downloaded and saved
+Comments on Post
+Similar Post
+Profile of User
+Created and Save posts of other User
+Advance Filter Option
+Pre Defined Categories
+
+# Setup
+React
+Tailwind CSS
+Sanity
+
+npm i -g @sanity/cli
+sanity init
+
+Project Template are available for movie, ecommerce, blog websites
+
+sanity start to studio
+sanity manage to open project
+
+# Set up
+
+Create React App
+npm create-react-app my-app
+
+Update npm
+npm update npm -g
+
+Update nodejs
+Install nvm
+
+Install Tailwind
+npm i -D tailwindcss postcss autoprefixer
+-D means development dependencies
+
+npx tailwindcss init -p
+It creates tailwindcss and postcss config files
+Edit tailwindcss config file
+
+Add Directives
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
